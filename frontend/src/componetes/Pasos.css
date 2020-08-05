@@ -1,0 +1,8 @@
+.fondo-pasos{
+    display: flex;
+    background-color: #598880;
+}
+
+.texto-pasos {
+    font-weight: bold;
+}

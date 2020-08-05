@@ -1,0 +1,15 @@
+.main-container{
+    width: 75%;
+    margin-left: 25%;
+}
+
+.somdra{
+    -webkit-box-shadow: 0 4px 8px 0 #777, 0 10px 6px -6px #777;
+    -moz-box-shadow: 0 4px 8px 0 #777, 0 10px 6px -6px #777;
+    box-shadow: 0 4px 8px 0 #777, 0 10px 6px -6px #777;
+}
+
+body{
+    background: url("./images/fondo.jpg") 0 50%;
+	background-size: 100%;
+}

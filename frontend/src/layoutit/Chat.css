@@ -1,0 +1,14 @@
+.chat {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    padding: 0;
+    line-height: 60px;
+    color: white;
+}
+
+.redondo{
+    border-radius: 100% !important;
+    min-width: 70px;
+    min-height: 70px;
+}
